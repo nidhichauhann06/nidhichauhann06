@@ -1,153 +1,98 @@
-# <div align="center">👋 Hi, I'm Nidhi Chauhan</div>
-
 <div align="center">
 
-### `> Learning, Building & Growing as a Full-Stack Web Developer`
+```
+███╗   ██╗ ██╗ ██████╗   ██╗  ██╗ ██╗
+████╗  ██║ ██║ ██╔══██╗  ██║  ██║ ██║
+██╔██╗ ██║ ██║ ██║  ██║  ███████║ ██║
+██║╚██╗██║ ██║ ██║  ██║  ██╔══██║ ██║
+██║ ╚████║ ██║ ██████╔╝  ██║  ██║ ██║
+╚═╝  ╚═══╝ ╚═╝ ╚═════╝   ╚═╝  ╚═╝ ╚═╝
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yourportfolio.com)
+### `> Learning to build full-stack apps, one bug at a time`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-```javascript
-const nidhi = {
-  role: "Computer Science Student",
-  learning: "Full-Stack Web Development",
-  focus: [
-    "Frontend Development",
-    "Backend Development",
-    "Database Design",
-    "Modern Web Technologies"
-  ],
-  currentlyBuilding: "Projects that solve real-world problems",
-  goal: "Becoming a skilled Full-Stack Developer",
-  motto: "Learn. Build. Improve. Repeat."
-};
+```python
+me = {
+    "role"       : "CS Student & Aspiring Full-Stack Web Developer",
+    "focus"      : ["React", "Next.js", "Node.js", "Express", "REST APIs"],
+    "currently"  : "Building full-stack projects and sharpening my DB skills",
+    "learning"   : ["System Design", "Authentication & Security", "Cloud Deployment"],
+    "philosophy" : "Ship it, then improve it.",
+}
 ```
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-```txt
-React.js • Next.js • JavaScript • TypeScript
-HTML5 • CSS3 • Tailwind CSS • Responsive Design
-```
-
-### ⚙️ Backend
-
-```txt
-Node.js • Express.js • REST APIs
-Authentication • Middleware • Server-Side Development
-```
-
-### 🗄️ Databases
-
-```txt
-MongoDB • MySQL • PostgreSQL
-Database Design • CRUD Operations • Query Optimization
-```
-
-### 🛠️ Tools & Technologies
-
-```txt
-Git • GitHub • VS Code • Postman
-Docker • Linux • Vercel • Netlify
-```
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React Patterns
-* Next.js Full-Stack Applications
-* System Design Fundamentals
-* Backend Architecture
-* Database Optimization
-* DevOps & Deployment
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Full-Stack Web Application
-
-> `React` `Node.js` `MongoDB`
-
-* Built a responsive web application with modern UI/UX
-* Implemented authentication and protected routes
-* Designed scalable backend APIs
+### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
+> `React` `Node.js` `Express` `MongoDB`
+- Brief bullet on what the project does
+- Brief bullet on a technical highlight (auth, real-time features, API design, etc.)
+- Brief bullet on impact or scale (e.g. "handles X requests", "reduced load time by X%")
 
 ---
 
-### 🛒 E-Commerce Platform
-
-> `Next.js` `Express.js` `PostgreSQL`
-
-* Developed a complete shopping experience
-* Integrated database-driven product management
-* Implemented secure user authentication
+### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
+> `Next.js` `TypeScript` `PostgreSQL` `Prisma`
+- Brief bullet on what the project does
+- Brief bullet on a technical highlight
+- Brief bullet on what you learned or shipped
 
 ---
 
-### 📋 Task Management App
-
-> `React` `Node.js` `MongoDB`
-
-* Created a productivity-focused web application
-* Real-time task management and tracking
-* Clean and intuitive user interface
+### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
+> `Express` `MySQL` `JWT` `Docker`
+- Brief bullet on what the project does
+- Brief bullet on a technical highlight
+- Brief bullet on deployment or testing setup
 
 ---
 
-## 📈 Development Journey
+## 🛠️ Tech Stack
 
-```text
-Frontend Development  ████████████████░░░░ 80%
-Backend Development   ██████████████░░░░░░ 70%
-Databases            █████████████░░░░░░░ 65%
-System Design        ████████░░░░░░░░░░░░ 40%
-DevOps               ██████░░░░░░░░░░░░░░ 30%
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,figma,vscode,docker,vercel&perline=8&theme=dark" />
+</p>
 
 ---
 
-## 📚 What I'm Exploring
+## 📜 Certifications
 
-* ⚡ Building scalable web applications
-* 🔥 Creating modern user experiences
-* 🌍 Open Source Contributions
-* 🚀 Performance Optimization
-* 🏗️ Full-Stack Architecture
-* 📱 Responsive & Accessible Design
+| Badge | Certification |
+|---|---|
+| 🏅 | **Certification Name** — short description of what it covers |
+| 🏅 | **Certification Name** — short description of what it covers |
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-I'm always excited to:
+<div align="center">
 
-* Collaborate on web development projects
-* Learn from experienced developers
-* Contribute to open-source projects
-* Discuss technology and software development
-* Explore new opportunities and challenges
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Every expert was once a beginner who refused to quit."
+`React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `SQL` · `PostgreSQL` · `REST APIs`
 
-**React** • **Next.js** • **Node.js** • **Express.js** • **MongoDB** • **PostgreSQL** • **MySQL** • **JavaScript**
+**💬 Open to internships, collab projects & learning opportunities**
 
-⭐ *Thanks for visiting my profile!*
+*"The best way to learn to code is to keep building."*
 
 </div>
