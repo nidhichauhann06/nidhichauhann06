@@ -81,7 +81,7 @@ me = {
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=nidhichauhann06)](https://git.io/streak-stats)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=nidhichauhann06&theme=dark-smoky)](https://git.io/streak-stats)
 
 </div>
 
