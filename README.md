@@ -11,9 +11,9 @@
 
 ### `> Learning to build full-stack apps, one bug at a time`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-chauhan-nc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-nidhichauhann06)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhichauhan06@gmail.com)
 
 </div>
 
@@ -31,33 +31,6 @@ me = {
 }
 ```
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
-> `React` `Node.js` `Express` `MongoDB`
-- Brief bullet on what the project does
-- Brief bullet on a technical highlight (auth, real-time features, API design, etc.)
-- Brief bullet on impact or scale (e.g. "handles X requests", "reduced load time by X%")
-
----
-
-### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
-> `Next.js` `TypeScript` `PostgreSQL` `Prisma`
-- Brief bullet on what the project does
-- Brief bullet on a technical highlight
-- Brief bullet on what you learned or shipped
-
----
-
-### 🔹 [Project Name](https://github.com/your-username/project-repo) — One-line description
-> `Express` `MySQL` `JWT` `Docker`
-- Brief bullet on what the project does
-- Brief bullet on a technical highlight
-- Brief bullet on deployment or testing setup
-
----
 
 ## 🛠️ Tech Stack
 
@@ -67,21 +40,6 @@ me = {
 
 ---
 
-## 📜 Certifications
-
-| Badge | Certification |
-|---|---|
-| 🏅 | **Certification Name** — short description of what it covers |
-| 🏅 | **Certification Name** — short description of what it covers |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=nidhichauhann06&theme=dark-smoky)](https://git.io/streak-stats)
 
 </div>
 
